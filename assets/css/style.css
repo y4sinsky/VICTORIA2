@@ -17,6 +17,10 @@ a {
   color: #5ea36d;
 }
 
+.mainnomer {
+  color: #00ff37;
+}
+
 a:hover {
   color: #a2e3b0;
   text-decoration: none;
